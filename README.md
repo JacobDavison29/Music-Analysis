@@ -12,3 +12,5 @@ This project was inspired by my interest in rap music and how it helped me bette
   - 50 Cents 'Live At The Hard Rock (Edited Version)' has the highest valence amongst the four artists.
   - Eminem's song 'Without Me' from his album The Eminem Show is the most popular song by far between the four artists, coming in with a popularity score of 87.
   - All of Eminem's top 5 songs are ranked higher in popularity than the other three artists most popular song. 
+  
+The overall analysis of the data can be found [here](https://public.tableau.com/app/profile/jacob.davison/viz/MusicAnalysis_16624853357950/Dashboard1) on my Tableau Profile.
