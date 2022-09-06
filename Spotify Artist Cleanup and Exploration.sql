@@ -277,7 +277,7 @@ ORDER BY Popularity DESC;
 
 
 
---Looking at all artists songs with the most tempo
+--Looking at all artists songs with the most Tempo
 SELECT * 
 FROM (
 	SELECT Album,Artist,Name,Tempo
